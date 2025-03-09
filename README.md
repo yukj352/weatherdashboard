@@ -23,7 +23,7 @@ A simple weather dashboard built with **Flask** and **OpenWeatherMap API** to di
 ### Steps:
 1. **Clone the repository**
    ```sh  
-   git clone https://github.com/your-username/weather-dashboard.git
+   https://github.com/yukj352/weatherdashboard.git
    cd weather-dashboard
 2. **Install Dependencies**
    ```sh 
